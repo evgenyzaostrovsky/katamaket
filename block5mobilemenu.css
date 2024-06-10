@@ -83,11 +83,11 @@
     content: "";
     display: none;
     position: absolute;
-    left:-4px;
-    width: 8px;
+    left: 0px;
+    width: 4px;
     height: 32px;
     background-color: #41F6D7;
-    border-radius: 5px;
+    border-radius: 0 5px 5px 0;
 }
 
 .nav-bar > li:hover::before {
